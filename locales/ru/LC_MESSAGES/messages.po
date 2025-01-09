@@ -22,3 +22,15 @@ msgstr "Вы написали: "
 
 msgid "Language set to {lang_name}!"
 msgstr "Язык изменён на {lang_name}!"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Cabinet"
+msgstr "Кабинет"
+
+msgid "Welcome to your cabinet!"
+msgstr "Добро пожаловать в ваш кабинет!"
+
+msgid "Main menu:"
+msgstr "Главное меню:"

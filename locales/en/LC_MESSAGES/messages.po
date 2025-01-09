@@ -9,3 +9,15 @@ msgstr "You wrote: "
 
 msgid "Language set to {lang_name}!"
 msgstr "Language set to {lang_name}!"
+
+msgid "FAQ"
+msgstr "FAQ"
+
+msgid "Cabinet"
+msgstr "Cabinet"
+
+msgid "Welcome to your cabinet!"
+msgstr "Welcome to your cabinet!"
+
+msgid "Main menu:"
+msgstr "Main menu:"
