@@ -1,0 +1,11 @@
+msgid "Choose a language"
+msgstr "Choose a language"
+
+msgid "Language set successfully!"
+msgstr "Language set successfully!"
+
+msgid "You wrote: "
+msgstr "You wrote: "
+
+msgid "Language set to {lang_name}!"
+msgstr "Language set to {lang_name}!"
